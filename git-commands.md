@@ -17,4 +17,5 @@ We are adding Git & Github command
 -git checkout <branch name>- > To switch another branch
 -git switch <branch name>-To switch another branc
 -git log-> Checking commit History
--git log --oneline-> Showing compact commit historyh
+-git log --oneline-> Showing compact commit history
+
