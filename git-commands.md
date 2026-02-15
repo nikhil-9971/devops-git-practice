@@ -15,4 +15,6 @@ We are adding Git & Github command
 -git rm- delete the file from project and stage the removal for commit
 -git checkout -b <custome branch name> -> for adding branch 
 -git checkout <branch name>- > To switch another branch
--git switch <branch name>-To switch another branch
+-git switch <branch name>-To switch another branc
+-git log-> Checking commit History
+-git log --oneline-> Showing compact commit historyh
