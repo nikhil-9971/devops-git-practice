@@ -18,4 +18,5 @@ We are adding Git & Github command
 -git switch <branch name>-To switch another branc
 -git log-> Checking commit History
 -git log --oneline-> Showing compact commit history
-
+-git push-Transmit local branch commits to the remote repository branch
+-git pull-fetch and merge any commits from the tracking remote branch
