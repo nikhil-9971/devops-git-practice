@@ -20,3 +20,4 @@ We are adding Git & Github command
 -git log --oneline-> Showing compact commit history
 -git push-Transmit local branch commits to the remote repository branch
 -git pull-fetch and merge any commits from the tracking remote branch
+-git clone <url> - retrieve an entire repository from a hosted location via URL
