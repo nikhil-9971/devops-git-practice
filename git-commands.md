@@ -22,4 +22,6 @@ We are adding Git & Github command
 -git pull-fetch and merge any commits from the tracking remote branch
 -git clone <url> - retrieve an entire repository from a hosted location via URL
 -git branch -D <branch name> - This is using to delete  branch
+-git remote add origin <ssh url> - This command is use only local repo connect git github
+-git push -u origin main-> push main branch in github repo
 
