@@ -24,4 +24,5 @@ We are adding Git & Github command
 -git branch -D <branch name> - This is using to delete  branch
 -git remote add origin <ssh url> - This command is use only local repo connect git github
 -git push -u origin main-> push main branch in github repo
+-git pull orgin main-> pull repo from remote server to local
 
