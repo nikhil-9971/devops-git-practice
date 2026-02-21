@@ -53,3 +53,9 @@ We are adding Git & Github command
 -git cherry-pick <commit-hash> -> Specific commit ko current branch me copy karke apply karta hai.
 -git cherry-pick --continue -> Conflict resolve karne ke baad cherry-pick continue karta hai.
 -git cherry-pick --abort -> Cherry-pick process cancel karta hai aur branch ko previous state me le jata hai.
+
+-git reset --soft HEAD~1
+-git reset --mixed HEAD~1
+-git reset --hard  HEAD~1
+-git revert <hash of commit> jise aap revert karna cahte h 
+
