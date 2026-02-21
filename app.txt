@@ -4,11 +4,8 @@ i have changing typo
 
 Set formating of app.
 
-some feature added
-<<<<<<< Updated upstream
-Work in progress line
-change 1
-=======
+some feature add
+
 change 3
 
 
@@ -16,4 +13,4 @@ change 3
 Some Feature added 1
 some feature added 2
 
->>>>>>> Stashed changes
+
